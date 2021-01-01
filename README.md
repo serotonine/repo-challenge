@@ -37,7 +37,7 @@ reword 03- Started Hello World Feature
 git log --oneline
 ```
 
-## 3- Changer l'auteur du commit 05 pour qui'il soit Me, the Challenger.
+## 3- Changer l'auteur du commit 05 pour qu'il soit Me, the Challenger.
 
 On veut cacher que Pompier était à notre secours !
 
